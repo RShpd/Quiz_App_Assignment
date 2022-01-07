@@ -89,6 +89,10 @@ final List<Quiz> quizes = [
           question: 'Which animal can be seen on the Porsche logo?',
           possibleAnswers: ['Dog', 'Horse', 'Lion', 'Cow'],
           answer: 'Horse',
+        ), Question(
+          question: 'Which company owns Bugatti, Lamborghini. Audi, Porsche, and Ducati?',
+          possibleAnswers: ['BMW', 'Stellantis', 'Benz', 'Volkswagen'],
+          answer: 'Volkswagen',
         ),
       ]),
 ];
